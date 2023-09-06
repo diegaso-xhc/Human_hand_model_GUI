@@ -15,11 +15,6 @@ This repository uses one of such state-of-the-art models, namely, the MANO hand 
 
 ## Understanding repository
 
-The reository contains two files, namely:
-```
-- toolkits: Python file containing all classes and controllers to connect, use, and control the robotic hand.
-- main: A main file containing samples on how to use the functions on toolkits.
-```
 The repository contains two files. One of them contains a GUI which can be used to move the 45 degrees of freedom of the hand (3 rotations per each joint), as well as adjust the shape of the hand model via a shape vector (size of 10). The other file can depicts the hand in a flat configuration for visualization purposes. Both files export the meshes of the resulting hands in a given configuration. The meshes are saved in .mat files which can be imported via MATLAB or python. 
 <br />
 
