@@ -9,7 +9,7 @@ This repository uses one of such state-of-the-art models, namely, the MANO hand 
 <br />
 <br /> 
 <p align="center">
-   <img src="/Visualizations/gif_azzurra.gif" width="300" />
+   <img src="/Visualizations/Hand_1.png" width="500" />
 </p>
 <sup> *Romero, Javier, Dimitrios Tzionas, and Michael J. Black. "Embodied hands: Modeling and capturing hands and bodies together." ACM Transactions on Graphics (ToG) 36.6 (2017): 1-17.</sup>
 ## Understanding repository
@@ -27,7 +27,7 @@ Whenever using position, current or force controllers, you will be able to see a
 
 ### Position error vs. Time
 <p align="center">
-   <img src="/Visualizations/Error_response.png" width="750" />
+   <img src="/Visualizations/GUI.png" width="700" />
 </p>
 <br />
 
