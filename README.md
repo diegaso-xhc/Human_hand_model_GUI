@@ -12,6 +12,7 @@ This repository uses one of such state-of-the-art models, namely, the MANO hand 
    <img src="/Visualizations/Hand_1.png" width="600" />
 </p>
 <sup> *Romero, Javier, Dimitrios Tzionas, and Michael J. Black. "Embodied hands: Modeling and capturing hands and bodies together." ACM Transactions on Graphics (ToG) 36.6 (2017): 1-17.</sup>
+
 ## Understanding repository
 
 The reository contains two files, namely:
