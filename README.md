@@ -1,6 +1,6 @@
 # Human hand model GUI
 
-## Overview of the repostitory
+## Overview of the repository
 <div align="justify">
 Human hands are crucial for the manipulation dexterity that humans exhibit on a daily basis. This is because of their high performance and remarkable flexibility. Understanding how humans work is crucial for a myriad of fields, including robotics, rehabilitation and biomechanics.
 Sharing state-of-the-art digital hand models with the curious minds of the world would surely expand our knowledge of these marvelous instruments we have. 
